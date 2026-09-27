@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/rural_beetle_6089), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Retried Failed API Calls](./practice/sql/retried-failed-api-calls) | SQL | Medium | 2026-09-21 |
 | [The Loudest Neighbor](./practice/sql/the-loudest-neighbor) | SQL | Hard | 2026-09-18 |
 | [The Traffic Director](./practice/python/the-traffic-director) | Python | Easy | 2026-09-18 |
 | [The Window Cleaner](./practice/python/the-window-cleaner) | Python | Medium | 2026-09-11 |
