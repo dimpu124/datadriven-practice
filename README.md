@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/rural_beetle_6089), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Pay Ladder](./practice/python/the-pay-ladder) | Python | Medium | 2026-09-27 |
 | [The Date Sorter](./practice/python/the-date-sorter) | Python | Medium | 2026-09-25 |
 | [Daily Error Count Change](./practice/sql/daily-error-count-change) | SQL | Medium | 2026-09-22 |
 | [The Word Census](./practice/python/the-word-census) | Python | Easy | 2026-09-22 |
