@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/rural_beetle_6089), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Daily Error Count Change](./practice/sql/daily-error-count-change) | SQL | Medium | 2026-09-22 |
 | [The Word Census](./practice/python/the-word-census) | Python | Easy | 2026-09-22 |
 | [Into One Stream](./practice/python/into-one-stream) | Python | Easy | 2026-09-21 |
 | [Most Recent Token Usage](./practice/sql/most-recent-token-usage) | SQL | Easy | 2026-09-21 |
