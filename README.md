@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/rural_beetle_6089), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Traffic Director](./practice/python/the-traffic-director) | Python | Easy | 2026-09-18 |
 | [The Window Cleaner](./practice/python/the-window-cleaner) | Python | Medium | 2026-09-11 |
 
 <!-- datadriven:index:end -->
