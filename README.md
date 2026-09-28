@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/rural_beetle_6089), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Hands Apart](./practice/python/hands-apart) | Python | Easy | 2026-09-28 |
 | [Disabled Feature Flags](./practice/sql/disabled-feature-flags) | SQL | Easy | 2026-09-28 |
 | [The Pay Ladder](./practice/python/the-pay-ladder) | Python | Medium | 2026-09-27 |
 | [The Date Sorter](./practice/python/the-date-sorter) | Python | Medium | 2026-09-25 |
