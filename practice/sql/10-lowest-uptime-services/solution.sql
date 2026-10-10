@@ -1,11 +1,6 @@
-SELECT svc_name, min_uptime
-FROM (
-    SELECT svc_name,
-           MIN(uptime) AS min_uptime,
-           RANK() OVER (ORDER BY MIN(uptime) ASC) AS rnk
-    FROM svc_health
-    WHERE uptime IS NOT NULL
-    GROUP BY svc_name
-) t
-WHERE rnk <= 10
-ORDER BY min_uptime ASC, svc_name;
+select svc_name, min_uptime from (
+select svc_name, min(COALESCE(uptime,0)) min_uptime,dense_rank() over ( order by min(COALESCE(uptime,0))) rk from svc_health 
+where uptime is not null
+group by svc_name 
+) where rk < 11
+order by min_uptime, svc_name
