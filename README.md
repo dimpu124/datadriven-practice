@@ -1,6 +1,6 @@
 # rural_beetle_6089's data engineering practice
 
-Scored work from [DataDriven](https://datadriven.io/u/rural_beetle_6089), committed here as it is scored. Each folder holds the code exactly as submitted and the report it earned.
+Scored work from [DataDriven](https://datadriven.io/u/rural_beetle_6089), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
 
 <!-- datadriven:index:start -->
 
@@ -22,6 +22,7 @@ Scored work from [DataDriven](https://datadriven.io/u/rural_beetle_6089), commit
 | [The Loudest Neighbor](./practice/sql/the-loudest-neighbor) | SQL | Hard | 2026-09-18 |
 | [The Traffic Director](./practice/python/the-traffic-director) | Python | Easy | 2026-09-18 |
 | [The Window Cleaner](./practice/python/the-window-cleaner) | Python | Medium | 2026-09-11 |
+| [The Person They Were Then](./practice/data_modeling/the-person-they-were-then) | Data Modeling | Easy | 2026-09-01 |
 
 <!-- datadriven:index:end -->
 
