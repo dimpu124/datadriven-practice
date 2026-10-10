@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/rural_beetle_6089), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Forward Fill](./practice/python/the-forward-fill) | Python | Easy | 2026-10-10 |
 | [The Long Run](./practice/python/the-long-run) | Python | Easy | 2026-10-10 |
 | [The Rolling Peak](./practice/python/the-rolling-peak) | Python | Medium | 2026-10-10 |
 | [The Ones Nobody Calls](./practice/sql/the-ones-nobody-calls) | SQL | Medium | 2026-10-04 |
