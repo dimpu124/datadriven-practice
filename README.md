@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/rural_beetle_6089), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Mirror Index](./practice/python/the-mirror-index) | Python | Easy | 2026-10-10 |
 | [The Event Bucketer](./practice/python/the-event-bucketer) | Python | Easy | 2026-10-10 |
 | [The Forward Fill](./practice/python/the-forward-fill) | Python | Easy | 2026-10-10 |
 | [The Long Run](./practice/python/the-long-run) | Python | Easy | 2026-10-10 |
