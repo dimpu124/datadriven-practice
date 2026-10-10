@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/rural_beetle_6089), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [10 Lowest Uptime Services](./practice/sql/10-lowest-uptime-services) | SQL | Medium | 2026-10-10 |
 | [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-10-10 |
 | [Round and Round They Go](./practice/python/round-and-round-they-go) | Python | Medium | 2026-10-10 |
 | [The Mirror Index](./practice/python/the-mirror-index) | Python | Easy | 2026-10-10 |
