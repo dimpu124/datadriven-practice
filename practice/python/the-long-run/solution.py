@@ -1,18 +1,15 @@
 def run_length_encoding(s: str):
-    if not s:                          # handle empty string
+    if not s:
         return ""
-    out = []
+    out = ''
+    letter = s[0]
     cont = 1
-    for i in range(len(s) - 1):
-        if s[i] == s[i + 1]:
+    for i in range(1, len(s)):
+        if letter == s[i]:
             cont += 1
         else:
-            out.append(s[i] + str(cont))
+            out += letter + str(cont)
+            letter = s[i]
             cont = 1
-    out.append(s[-1] + str(cont))      # the LAST letter, always
-    return "".join(out)
-            
-                   
-        
-        
-      
+    out += letter + str(cont)      # add the last group
+    return out
