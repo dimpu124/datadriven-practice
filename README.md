@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/rural_beetle_6089), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Cloud Cost Trend Analysis](./practice/sql/cloud-cost-trend-analysis) | SQL | Medium | 2026-10-12 |
 | [7-Check Rolling Average](./practice/sql/7-check-rolling-average) | SQL | Medium | 2026-10-10 |
 | [10 Lowest Uptime Services](./practice/sql/10-lowest-uptime-services) | SQL | Medium | 2026-10-10 |
 | [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-10-10 |
